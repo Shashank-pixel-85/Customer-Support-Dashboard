@@ -404,20 +404,6 @@ npm run build
 dist
 ```
 
-## Screenshots
-
-Add final screenshots to a `screenshots/` directory and reference them here if desired:
-
-```md
-![Dashboard](./screenshots/dashboard.png)
-
-![Create Ticket](./screenshots/create-ticket.png)
-
-![Ticket Details](./screenshots/ticket-details.png)
-
-![Edit Ticket](./screenshots/edit-ticket.png)
-```
-
 ## Learning Outcomes
 
 This project demonstrates practical understanding of:
