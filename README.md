@@ -340,18 +340,6 @@ Responsive behavior includes:
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Navigate into the project:
-
-```bash
-cd customer-support-dashboard
-```
-
 Install dependencies:
 
 ```bash
